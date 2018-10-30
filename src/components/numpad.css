@@ -1,0 +1,16 @@
+.numPadWrapper{
+  display: grid;
+  background-color:#161616;
+  grid-gap:.5rem;
+  grid-template-columns: repeat(3,1fr);
+  width:35%;
+  overflow:hidden;
+  float: left;
+  border-radius: 0 0 0 20px;
+  color:#f4f4f4;
+}
+
+.numPadWrapper h2{
+  font-size:3.17rem;
+  text-align: center;
+}

@@ -1,0 +1,17 @@
+.scientific-wrapper{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width:40%;
+  font-size: 2.5rem;
+  background-color:#ffb71c;
+  grid-gap:.5rem;
+  text-align: center;
+  height: 75%;
+  float: left;
+  color:#000;
+  border-radius: 0 0 20px 0;
+}
+
+.scientific-wrapper > div{
+  padding-top:2rem;
+}

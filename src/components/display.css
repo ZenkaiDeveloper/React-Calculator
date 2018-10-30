@@ -1,0 +1,25 @@
+.display{
+  width:100%;
+  background-color:black;
+  height:33%;
+  border-radius:15px 15px 0 0;
+  position: relative;
+
+
+}
+
+.display h1{
+  color: #f4f4f4;
+  font-size:5rem;
+  position: absolute;
+  bottom: 0;
+  right: 2rem;
+}
+
+.display h2{
+  color: #666;
+  font-size:4rem;
+  position: absolute;
+  top: 0;
+  right: 2rem;
+}

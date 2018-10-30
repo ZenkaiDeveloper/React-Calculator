@@ -1,0 +1,19 @@
+.operationsWrapper{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width:25%;
+  font-size: 3.17rem;
+  background-color:#332e2e;
+  grid-gap:.5rem;
+  text-align: center;
+  height: 75%;
+  overflow:hidden;
+  float: left;
+  color:#f4f4f4;
+}
+
+.operationsWrapper > div{
+  /* border:1px solid black;
+  border-radius:5px; */
+  padding-top:2rem;
+}
